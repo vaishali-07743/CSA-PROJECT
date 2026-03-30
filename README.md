@@ -66,7 +66,7 @@ resume-screening-nlp/
 
 ### 1. Clone the repository
 
-git clone repo link- (https://github.com/helium2111/CSA-project.git)
+git clone repo link- (https://github.com/vaishali-07743/CSA-PROJECT.git)
 cd resume-screening-nlp
 
 ### 2. Install dependencies
